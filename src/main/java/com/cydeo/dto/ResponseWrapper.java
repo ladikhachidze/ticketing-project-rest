@@ -1,5 +1,6 @@
 package com.cydeo.dto;
 
+import com.fasterxml.jackson.databind.annotation.JsonAppend;
 import lombok.*;
 import org.springframework.http.HttpStatus;
 
